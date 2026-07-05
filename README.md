@@ -1,43 +1,31 @@
 # Hi, I'm Dishant Kasodariya
 
-Full Stack Web Developer specializing in React, TypeScript, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS, and modern web application development. I build fast, scalable, responsive, and user-focused web applications with clean architecture and high-performance user experiences.
+Full Stack Web Developer specializing in React, TypeScript, Node.js, Express.js, MongoDB, MySQL, and modern web application development.
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a passionate Full Stack Web Developer focused on creating modern web applications, business websites, SaaS products, dashboards, and responsive user interfaces. I enjoy solving real-world problems through clean code, scalable architecture, and intuitive user experiences.
+I'm a passionate Full Stack Developer who enjoys building modern websites, SaaS products, and responsive web applications.
 
-Currently, I am improving my expertise in:
-
-- React
-- TypeScript
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Python
-- REST APIs
-- System Design
-- SaaS Development
-- AI Applications
-
-My goal is to become an expert Full Stack Engineer while building products used by businesses worldwide.
+- 🌱 Currently learning Advanced React, Node.js, Python, and AI.
+- 🚀 Building modern business websites and SaaS applications.
+- 💡 Passionate about clean code and scalable architecture.
+- 🎯 Goal: Become an Expert Full Stack Engineer.
 
 ---
 
-## Skills
+## 🛠 Skills
 
 ### Frontend
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - TypeScript
 - React
 - Vite
 - Tailwind CSS
-- Responsive Design
 - GSAP
 - Framer Motion
 
@@ -45,18 +33,15 @@ My goal is to become an expert Full Stack Engineer while building products used 
 
 - Node.js
 - Express.js
-- REST API Development
-- Authentication
-- JWT
-- File Upload
-- CRUD Applications
+- REST APIs
+- JWT Authentication
 
 ### Database
 
 - MongoDB
 - MySQL
 
-### Programming Languages
+### Languages
 
 - JavaScript
 - TypeScript
@@ -71,80 +56,42 @@ My goal is to become an expert Full Stack Engineer while building products used 
 - VS Code
 - Postman
 - Figma
-- npm
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 | Category | Technologies |
-|----------|--------------|
-| Frontend | React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite |
+|-----------|--------------|
+| Frontend | React, TypeScript, Tailwind CSS, Vite |
 | Backend | Node.js, Express.js |
 | Database | MongoDB, MySQL |
 | Languages | JavaScript, TypeScript, Python, Java, C++ |
-| Version Control | Git, GitHub |
-| Design | Figma |
-| API Testing | Postman |
+| Tools | Git, GitHub, VS Code, Postman, Figma |
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### HavAntar
+### 🏛 HavAntar
 
-Modern Architecture Website built with React, TypeScript and Tailwind CSS.
+Modern Architecture Website built with React, TypeScript, and Tailwind CSS.
 
-Features
+### 🎨 ZenEdits
 
-- Responsive Design
-- Modern UI
-- Smooth Animations
-- SEO Optimized
-- Fast Performance
+Creative Portfolio Website with modern UI and smooth animations.
 
----
+### 🦷 DentiCare
 
-### ZenEdits
+Professional Dental Clinic Website.
 
-Creative Portfolio Website.
+### 📦 PremiumInsure
 
-Features
-
-- Responsive Layout
-- Modern Design
-- GSAP Animations
-- Smooth User Experience
+Responsive Insurance Website Template.
 
 ---
 
-### DentiCare
-
-Dental Clinic Website.
-
-Features
-
-- Appointment Pages
-- Service Pages
-- Responsive Design
-- Professional UI
-
----
-
-### PremiumInsure
-
-Insurance Website Template.
-
-Features
-
-- Multi-page Website
-- Responsive Components
-- Modern Design
-- Clean Architecture
-
----
-
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dishant200301&show_icons=true&theme=transparent&hide_border=true)
 
@@ -154,89 +101,54 @@ Features
 
 ---
 
-## Current Focus
-
-- Full Stack Development
-- SaaS Products
-- Modern UI Development
-- Backend Development
-- REST API Development
-- Performance Optimization
-- System Design
-- AI Integration
-
----
-
-## Learning
+## 📚 Currently Learning
 
 - Advanced React
 - Node.js
 - Express.js
 - MongoDB
-- TypeScript
 - Python
 - Docker
 - AWS
 - AI Agents
-- Software Architecture
+- SaaS Development
 
 ---
 
-## Development Principles
+## 🎯 Goals
 
-- Clean Code
-- Responsive Design
-- Accessibility
-- Performance First
-- Reusable Components
-- Scalable Architecture
-- User-Centered Design
-- SEO Best Practices
+- Build Premium SaaS Products
+- Master Full Stack Development
+- Learn Cloud Technologies
+- Contribute to Open Source
+- Build Scalable Applications
 
 ---
 
-## Open Source
+## 📫 Contact
 
-I enjoy learning from the developer community and contributing to open-source projects whenever possible. I believe collaboration helps developers grow and build better software.
-
----
-
-## Contact
-
-GitHub
+**GitHub**
 
 https://github.com/Dishant200301
 
-Email
+**Email**
 
 your-email@example.com
 
-Portfolio
+**Portfolio**
 
 https://your-portfolio.com
 
-LinkedIn
+**LinkedIn**
 
 https://linkedin.com/in/your-profile
 
 ---
 
-## Goals
+## 📜 Quote
 
-- Build scalable SaaS products
-- Create premium website templates
-- Contribute to open source
-- Improve backend architecture skills
-- Learn cloud technologies
-- Master Full Stack Development
-- Build products used globally
+> "Build software that solves real problems."
 
 ---
 
-## Quote
-
-"Build software that solves real problems."
-
----
-
-Last Updated: 2026
+⭐ Thanks for visiting my GitHub profile.
