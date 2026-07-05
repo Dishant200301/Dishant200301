@@ -1,182 +1,242 @@
-<div align="center">
+# Hi, I'm Dishant Kasodariya
 
-# Hi 👋, I'm Dishant Kasodariya
-
-### 🚀 Full Stack Web Developer | React • TypeScript • Node.js | Building Modern Web Experiences
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-
-</div>
+Full Stack Web Developer specializing in React, TypeScript, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS, and modern web application development. I build fast, scalable, responsive, and user-focused web applications with clean architecture and high-performance user experiences.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 Currently building **Modern SaaS & Business Websites**
-- 🌱 Learning **Advanced React, Node.js, TypeScript, Python & AI**
-- 💼 Interested in **Frontend, Backend & UI/UX**
-- 🚀 Goal: Build products used by thousands of people.
-- 💡 Passionate about clean code, animations and modern UI.
-- 🎯 2026 Goal: Launch successful SaaS products.
+I am a passionate Full Stack Web Developer focused on creating modern web applications, business websites, SaaS products, dashboards, and responsive user interfaces. I enjoy solving real-world problems through clean code, scalable architecture, and intuitive user experiences.
 
----
+Currently, I am improving my expertise in:
 
-# 🌐 Connect With Me
+- React
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Python
+- REST APIs
+- System Design
+- SaaS Development
+- AI Applications
 
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+My goal is to become an expert Full Stack Engineer while building products used by businesses worldwide.
 
 ---
 
-# 💻 Tech Stack
+## Skills
 
 ### Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind"/>
-
-</p>
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Vite
+- Tailwind CSS
+- Responsive Design
+- GSAP
+- Framer Motion
 
 ### Backend
 
-<p>
+- Node.js
+- Express.js
+- REST API Development
+- Authentication
+- JWT
+- File Upload
+- CRUD Applications
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+### Database
 
-</p>
+- MongoDB
+- MySQL
 
 ### Programming Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript"/>
-
-</p>
+- JavaScript
+- TypeScript
+- Python
+- Java
+- C++
 
 ### Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+- npm
 
 ---
 
-# 📈 Contribution Graph
+## Tech Stack
 
-[![Dishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4)
-
----
-
-# 🚀 Featured Projects
-
-### 🏛 HavAntar
-
-Modern Architecture Website
-
-**React • TypeScript • Tailwind CSS**
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, MySQL |
+| Languages | JavaScript, TypeScript, Python, Java, C++ |
+| Version Control | Git, GitHub |
+| Design | Figma |
+| API Testing | Postman |
 
 ---
 
-### 💎 ZenEdits
+## Featured Projects
 
-Professional Portfolio Website
+### HavAntar
 
-**React • GSAP • Framer Motion**
+Modern Architecture Website built with React, TypeScript and Tailwind CSS.
 
----
+Features
 
-### 🦷 DentiCare
-
-Dental Clinic Website
-
-**React • TypeScript • Tailwind**
-
----
-
-### 📦 PremiumInsure
-
-Insurance Website Template
-
-**React • Tailwind CSS**
+- Responsive Design
+- Modern UI
+- Smooth Animations
+- SEO Optimized
+- Fast Performance
 
 ---
 
-### 📚 Currently Learning
+### ZenEdits
+
+Creative Portfolio Website.
+
+Features
+
+- Responsive Layout
+- Modern Design
+- GSAP Animations
+- Smooth User Experience
+
+---
+
+### DentiCare
+
+Dental Clinic Website.
+
+Features
+
+- Appointment Pages
+- Service Pages
+- Responsive Design
+- Professional UI
+
+---
+
+### PremiumInsure
+
+Insurance Website Template.
+
+Features
+
+- Multi-page Website
+- Responsive Components
+- Modern Design
+- Clean Architecture
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dishant200301&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant200301&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dishant200301&theme=transparent&hide_border=true)
+
+---
+
+## Current Focus
+
+- Full Stack Development
+- SaaS Products
+- Modern UI Development
+- Backend Development
+- REST API Development
+- Performance Optimization
+- System Design
+- AI Integration
+
+---
+
+## Learning
 
 - Advanced React
 - Node.js
 - Express.js
 - MongoDB
+- TypeScript
 - Python
+- Docker
+- AWS
 - AI Agents
-- SaaS Development
-- System Design
+- Software Architecture
 
 ---
 
-# 📅 2026 Goals
+## Development Principles
 
-- ✅ Build 20+ Premium Websites
-- ✅ Launch SaaS Products
-- ✅ Master Full Stack Development
-- ✅ Learn AI Engineering
-- ✅ Contribute to Open Source
-- ✅ Reach 1000+ GitHub Contributions
-
----
-
-# 📫 Contact
-
-📧 Email : YOUR_EMAIL@gmail.com
-
-🌐 Portfolio : https://YOUR_PORTFOLIO.com
-
-💼 LinkedIn : https://linkedin.com/in/YOUR_PROFILE
-
-🐙 GitHub : https://github.com/YOUR_USERNAME
+- Clean Code
+- Responsive Design
+- Accessibility
+- Performance First
+- Reusable Components
+- Scalable Architecture
+- User-Centered Design
+- SEO Best Practices
 
 ---
 
-<div align="center">
+## Open Source
 
-## ⭐ If you like my work, don't forget to star my repositories!
+I enjoy learning from the developer community and contributing to open-source projects whenever possible. I believe collaboration helps developers grow and build better software.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+---
 
-</div>
+## Contact
+
+GitHub
+
+https://github.com/Dishant200301
+
+Email
+
+your-email@example.com
+
+Portfolio
+
+https://your-portfolio.com
+
+LinkedIn
+
+https://linkedin.com/in/your-profile
+
+---
+
+## Goals
+
+- Build scalable SaaS products
+- Create premium website templates
+- Contribute to open source
+- Improve backend architecture skills
+- Learn cloud technologies
+- Master Full Stack Development
+- Build products used globally
+
+---
+
+## Quote
+
+"Build software that solves real problems."
+
+---
+
+Last Updated: 2026
