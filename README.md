@@ -1,154 +1,182 @@
-# Hi, I'm Dishant Kasodariya
+<div align="center">
 
-Full Stack Web Developer specializing in React, TypeScript, Node.js, Express.js, MongoDB, MySQL, and modern web application development.
+# Hi 👋, I'm Dishant Kasodariya
+
+### 🚀 Full Stack Web Developer | React • TypeScript • Node.js | Building Modern Web Experiences
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer who enjoys building modern websites, SaaS products, and responsive web applications.
-
-- 🌱 Currently learning Advanced React, Node.js, Python, and AI.
-- 🚀 Building modern business websites and SaaS applications.
-- 💡 Passionate about clean code and scalable architecture.
-- 🎯 Goal: Become an Expert Full Stack Engineer.
+- 🔭 Currently building **Modern SaaS & Business Websites**
+- 🌱 Learning **Advanced React, Node.js, TypeScript, Python & AI**
+- 💼 Interested in **Frontend, Backend & UI/UX**
+- 🚀 Goal: Build products used by thousands of people.
+- 💡 Passionate about clean code, animations and modern UI.
+- 🎯 2026 Goal: Launch successful SaaS products.
 
 ---
 
-## 🛠 Skills
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Vite
-- Tailwind CSS
-- GSAP
-- Framer Motion
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,tailwind"/>
+
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+<p>
 
-### Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 
-- MongoDB
-- MySQL
+</p>
 
-### Languages
+### Programming Languages
 
-- JavaScript
-- TypeScript
-- Python
-- Java
-- C++
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript"/>
+
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
+
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 📊 GitHub Statistics
 
-| Category | Technologies |
-|-----------|--------------|
-| Frontend | React, TypeScript, Tailwind CSS, Vite |
-| Backend | Node.js, Express.js |
-| Database | MongoDB, MySQL |
-| Languages | JavaScript, TypeScript, Python, Java, C++ |
-| Tools | Git, GitHub, VS Code, Postman, Figma |
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🚀 Featured Projects
+# 📈 Contribution Graph
+
+[![Dishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4)
+
+---
+
+# 🚀 Featured Projects
 
 ### 🏛 HavAntar
 
-Modern Architecture Website built with React, TypeScript, and Tailwind CSS.
+Modern Architecture Website
 
-### 🎨 ZenEdits
+**React • TypeScript • Tailwind CSS**
 
-Creative Portfolio Website with modern UI and smooth animations.
+---
+
+### 💎 ZenEdits
+
+Professional Portfolio Website
+
+**React • GSAP • Framer Motion**
+
+---
 
 ### 🦷 DentiCare
 
-Professional Dental Clinic Website.
+Dental Clinic Website
+
+**React • TypeScript • Tailwind**
+
+---
 
 ### 📦 PremiumInsure
 
-Responsive Insurance Website Template.
+Insurance Website Template
+
+**React • Tailwind CSS**
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dishant200301&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant200301&layout=compact&theme=transparent&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dishant200301&theme=transparent&hide_border=true)
-
----
-
-## 📚 Currently Learning
+### 📚 Currently Learning
 
 - Advanced React
 - Node.js
 - Express.js
 - MongoDB
 - Python
-- Docker
-- AWS
 - AI Agents
 - SaaS Development
+- System Design
 
 ---
 
-## 🎯 Goals
+# 📅 2026 Goals
 
-- Build Premium SaaS Products
-- Master Full Stack Development
-- Learn Cloud Technologies
-- Contribute to Open Source
-- Build Scalable Applications
-
----
-
-## 📫 Contact
-
-**GitHub**
-
-https://github.com/Dishant200301
-
-**Email**
-
-your-email@example.com
-
-**Portfolio**
-
-https://your-portfolio.com
-
-**LinkedIn**
-
-https://linkedin.com/in/your-profile
+- ✅ Build 20+ Premium Websites
+- ✅ Launch SaaS Products
+- ✅ Master Full Stack Development
+- ✅ Learn AI Engineering
+- ✅ Contribute to Open Source
+- ✅ Reach 1000+ GitHub Contributions
 
 ---
 
-## 📜 Quote
+# 📫 Contact
 
-> "Build software that solves real problems."
+📧 Email : YOUR_EMAIL@gmail.com
+
+🌐 Portfolio : https://YOUR_PORTFOLIO.com
+
+💼 LinkedIn : https://linkedin.com/in/YOUR_PROFILE
+
+🐙 GitHub : https://github.com/YOUR_USERNAME
 
 ---
 
-⭐ Thanks for visiting my GitHub profile.
+<div align="center">
+
+## ⭐ If you like my work, don't forget to star my repositories!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+
+</div>
